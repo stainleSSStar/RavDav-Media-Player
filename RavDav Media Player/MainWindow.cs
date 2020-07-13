@@ -20,6 +20,7 @@ namespace RavDav_Media_Player
         public MainWindow()
         {
             InitializeComponent();
+            //ADD ICON TO MAIN WINDOW TASKBAR FIX
             this.Icon = Properties.Resources.ikonai;
         }
         // END OF INITIALIZATION
